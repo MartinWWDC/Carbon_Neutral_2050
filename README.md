@@ -17,5 +17,3 @@ Questo è un progetto per il corso di "Visualizzazione Scientifica" nel quale ve
 # Autore
 
 * Martino Francesco Leone 03297A
-
-
